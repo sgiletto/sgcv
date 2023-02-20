@@ -1,0 +1,101 @@
+	body {
+		margin:0px;
+		text-align:center;
+		font-family: mohave, calibri, arial, sans-serif;
+		font-size: 25px;
+	}
+	
+	btn {
+		font-size: 14px;		
+	}
+	
+	.chillies {
+		width: 20%;
+		float: right;
+		margin: 20px 0px 0px 10px;
+	}
+	
+	.computer {
+		width: 20%;
+		float: left;
+		margin: 20px 30px 0px 0px;
+		border-radius: 50%;
+		
+	}
+	
+	.copyright {
+		font-size: 14px;
+	}
+	
+	.footer-link {
+		font-size: 18px;
+	}
+	
+	hr {
+		border-top: dotted 10px;
+		border-width: 10px 0px 0px 0px;
+		color: #EAF6F6;
+		height: 0px;
+		width: 100px;
+	}
+	
+	h1 {
+		margin: 30px auto 30px auto;
+		margin-bottom: 0px;
+		padding-top: 20px;
+		font-family: sacramento, cursive;
+		font-size: 100px;
+		color: #66BFBF;
+	}
+	
+	h2 {
+		margin: 20px auto 20px auto;
+		font-size: 2.5rem;
+		color: #66BFBF;
+		font-weight: normal;
+	}
+
+	h3 {
+		margin: 20px auto 20px auto;
+		color: #11999E;
+		font-weight: normal;
+	}
+	
+	.self_pic {
+		border-radius: 50%;
+		height: 250px;
+		width:auto;
+		padding-top: 20px;
+	}
+	
+	.skill-row {
+		width: 50%;
+		margin: 15px auto 15px auto;
+		text-align: left;
+	}
+	
+	.skills {
+		margin: 25px 0px 25px 0px;
+	}
+	
+	.top-cloud{
+		position: absolute;
+		right: 350px;
+	}
+
+	.bottom-cloud{
+		position: absolute;
+		left: 350px;
+	}
+	
+	.top-container {
+		background-color: #E4F9F5;
+		margin-left: 0px;
+		margin-right: 0px;
+		position: relative;
+		padding-top: 100px;
+	}
+	
+
+
+	
