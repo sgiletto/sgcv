@@ -68,9 +68,11 @@
 	hr {
 		border-top: dotted 10px;
 		border-bottom: none;
+		border-left: none;
+		border-right: none;
+		margin: 100px auto;
 		color: #EAF6F6;
-		margin: 100px 0px 100px 0px;
-		width: 100px;
+		width: 10%;
 	}
 	
 	h1 {
