@@ -67,9 +67,9 @@
 	
 	hr {
 		border-top: dotted 10px;
-		border-width: 10px 0px 0px 0px;
+		border-bottom: none;
 		color: #EAF6F6;
-		height: 0px;
+		margin: 100px 0px 100px 0px;
 		width: 100px;
 	}
 	
@@ -109,7 +109,7 @@
 	
 	.skill-row {
 		width: 50%;
-		margin: 15px auto 15px auto;
+		margin: 45px auto 45px auto;
 		text-align: left;
 	}
 	
