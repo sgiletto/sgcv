@@ -101,6 +101,10 @@
 		width: 50%;
 		margin: 15px auto 15px auto;
 	}
+
+	.reference-message {
+		margin: 45px auto 45px auto;		
+	}
 	
 	.self_pic {
 		border-radius: 50%;
